@@ -9,9 +9,9 @@
 		<meta content="text/css" http-equiv="Content-Style-Type" />
 		<meta content="cursive" http-equiv="Default-Style" />
 		<link href="persistent.css" type="text/css" rel="stylesheet" />
-        <link href="serif" type="text/css" rel="alternate stylesheet" title="serif" />
-        <link href="sans-serif" type="text/css" rel="alternate stylesheet" title="sans-serif" />
-		<link href="cursive" type="text/css" rel="alternate stylesheet" title="cursive" />
+        <link href="serif.css" type="text/css" rel="alternate stylesheet" title="serif" />
+        <link href="sans-serif.css" type="text/css" rel="alternate stylesheet" title="sans-serif" />
+		<link href="cursive.css" type="text/css" rel="alternate stylesheet" title="cursive" />
 		<style type="text/css" media="screen"><![CDATA[]]>
 		</style>
 	</head>
