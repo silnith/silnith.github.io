@@ -7,12 +7,11 @@
 		<title>silnith.org</title>
 		<meta content="application/xhtml+xml" http-equiv="Content-Type" />
 		<meta content="text/css" http-equiv="Content-Style-Type" />
-		<meta content="preferred" http-equiv="Default-Style" />
+		<meta content="cursive" http-equiv="Default-Style" />
 		<link href="persistent.css" type="text/css" rel="stylesheet" />
-		<link href="preferred.css" type="text/css" rel="stylesheet"
-			title="preferred" />
-		<link href="alternate.css" type="text/css"
-			rel="alternate stylesheet" title="alternate" />
+        <link href="serif" type="text/css" rel="alternate stylesheet" title="serif" />
+        <link href="sans-serif" type="text/css" rel="alternate stylesheet" title="sans-serif" />
+		<link href="cursive" type="text/css" rel="alternate stylesheet" title="cursive" />
 		<style type="text/css" media="screen"><![CDATA[]]>
 		</style>
 	</head>
