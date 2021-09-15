@@ -6,6 +6,15 @@
 	<head>
 		<title>silnith.org</title>
 		<meta content="application/xhtml+xml" http-equiv="Content-Type" />
+		<meta content="text/css" http-equiv="Content-Style-Type" />
+		<meta content="preferred" http-equiv="Default-Style" />
+		<link href="persistent.css" type="text/css" rel="stylesheet" />
+		<link href="preferred.css" type="text/css" rel="stylesheet"
+			title="preferred" />
+		<link href="alternate.css" type="text/css"
+			rel="alternate stylesheet" title="alternate" />
+		<style type="text/css" media="screen"><![CDATA[]]>
+		</style>
 	</head>
 	<body>
 		<h1>silnith.org</h1>
