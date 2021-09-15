@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en-US"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.w3.org/1999/xhtml"
+	xsi:schemaLocation="http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd ">
+	<head>
+		<title>silnith.org</title>
+		<meta content="application/xhtml+xml" http-equiv="Content-Type" />
+	</head>
+	<body>
+		<h1>silnith.org</h1>
+		<p>This is a test.</p>
+		<p>This is a test.</p>
+		<p>I never program without my test.</p>
+	</body>
+</html>
